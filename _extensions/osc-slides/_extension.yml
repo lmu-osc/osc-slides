@@ -7,4 +7,6 @@ contributes:
     revealjs:
       theme: [dark, revealjs/custom.scss]
       logo: revealjs/logo.svg
+    pptx:
+      reference-doc: pptx/template.pptx
 
