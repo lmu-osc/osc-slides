@@ -2,8 +2,8 @@
 title: Untitled
 format:
   osc-slides-revealjs: default
-  #osc-slides-pptx: default
-author: Your Name
+  osc-slides-pptx: default
+author: Patrick Callahan
 date: last-modified
 ---
 
