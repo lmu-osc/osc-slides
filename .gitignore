@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# quarto extension files for development only
+template_files/
+/template.html
+/template.pptx
