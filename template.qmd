@@ -29,11 +29,6 @@ license: "CC BY-SA" # default license for OSC content
 funding: "A statement about funding. If referencing a specific grant, see this section: https://quarto.org/docs/authoring/front-matter.html#funding"
 abstract: |
   A brief summary of your presentation. This will be displayed on the title slide and in the speaker notes.
-citation:
-  type: speech  # or "presentation"
-  container-title: "Conference/Event Name"
-  url: https://your-slides-url.com
-  doi: "10.xxxx/xxxxx"  # i
 ---
 
 ## Introduction
