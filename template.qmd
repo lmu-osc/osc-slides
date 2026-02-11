@@ -3,8 +3,37 @@ title: Untitled
 format:
   osc-slides-revealjs: default
   #osc-slides-pptx: default
-author: Your Name
+author:
+  - name: Your Name
+    affiliation:
+      - name: Your first affiliation
+        department: Your department
+        city: Your city
+        country: Your country
+        url: https://your-affiliation-website.com
+        ror: 029e6qe04 # this is the LMU Open Science Center ROR ID https://ror.org/029e6qe04
+      - name: optional additional affiliations
+        department: Optional department
+        city: Optional city
+        country: Optional country
+        url: https://optional-affiliation-website.com
+        ror: 000000000 # optional additional affiliation ROR ID
+    orcid: 0000-0000-0000-0000
+    corresponding: true
+    email: your_email@domain.com
+    degrees:
+      - Your highest degree
+    roles: "Either a CRediT role or free text: https://quarto.org/docs/authoring/front-matter.html#roles"
 date: last-modified
+license: "CC BY-SA" # default license for OSC content
+funding: "A statement about funding. If referencing a specific grant, see this section: https://quarto.org/docs/authoring/front-matter.html#funding"
+abstract: |
+  A brief summary of your presentation. This will be displayed on the title slide and in the speaker notes.
+citation:
+  type: speech  # or "presentation"
+  container-title: "Conference/Event Name"
+  url: https://your-slides-url.com
+  doi: "10.xxxx/xxxxx"  # i
 ---
 
 ## Introduction
@@ -14,4 +43,11 @@ date: last-modified
 ## More Information
 
 You can learn more about controlling the appearance of RevealJS output here: <https://quarto.org/docs/presentations/revealjs/>
+
+## Appendix {.appendix}
+
+## References
+
+::: {#refs}
+:::
 
