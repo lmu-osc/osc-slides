@@ -7,6 +7,14 @@ contributes:
     revealjs:
       theme: [revealjs/custom.scss]
       logo: revealjs/lmu_osc_logo.jpg
+      progress: true
+      preview-links: true
+      code-line-numbers: true
+      code-copy: true
+      execute:
+        echo: true
+        warning: true
+        error: true
     pptx:
       reference-doc: pptx/template.pptx
 
