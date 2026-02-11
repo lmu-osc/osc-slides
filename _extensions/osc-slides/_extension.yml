@@ -6,7 +6,7 @@ contributes:
   formats:
     revealjs:
       theme: [revealjs/custom.scss]
-      logo: revealjs/logo.svg
+      logo: revealjs/lmu_osc_logo.jpg
     pptx:
       reference-doc: pptx/template.pptx
 
