@@ -11,8 +11,10 @@ contributes:
       logo: revealjs/lmu_osc_logo.jpg
       progress: true
       preview-links: true
-      code-line-numbers: true
+      code-fold: true
+      code-link: true
       code-copy: true
+      code-annotations: below 
       slide-number: true
       execute:
         echo: true
@@ -21,7 +23,8 @@ contributes:
         error: true
       csl: https://www.zotero.org/styles/apa?source=1
       toc: true
-      toc-title: "Table of Contents"  
+      toc-title: "Table of Contents"
+      lang: en-US
       # title-slide-attributes:
       #   data-background-image: revealjs/lmu_osc_logo.jpg
       #   data-background-size: contain

@@ -11,6 +11,8 @@
 * In short, adapt the template title page above to perhaps have more or less the same info/structure, but allocate the left 30% of the page to LMU OSC logo and other information
 * The bottom portion of the slide could be a horizontal bar with LMU contact info, an image, etc.
 
+* Note that in the case of too many authors, more than 2 or 3 really, not all of the authors fit on the screen widthwise. Perhaps set a max size, and then have the text size dynamically resize?
+
 
 ### Alternative Option
 
