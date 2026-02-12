@@ -4,6 +4,8 @@ version: 1.0.0
 quarto-required: ">=1.8.0"
 contributes:
   formats:
+    common:
+      date-format: "DD/MM/YYYY"
     revealjs:
       theme: [revealjs/custom.scss]
       logo: revealjs/lmu_osc_logo.jpg
@@ -11,10 +13,19 @@ contributes:
       preview-links: true
       code-line-numbers: true
       code-copy: true
+      slide-number: true
       execute:
         echo: true
+        eval: true
         warning: true
         error: true
+      csl: https://www.zotero.org/styles/apa?source=1
+      toc: true
+      toc-title: "Table of Contents"  
+      # title-slide-attributes:
+      #   data-background-image: revealjs/lmu_osc_logo.jpg
+      #   data-background-size: contain
+      #   data-background-opacity: "0.5"
     pptx:
       reference-doc: pptx/template.pptx
 

@@ -1,5 +1,6 @@
 ---
 title: Untitled
+subtitle: "An optional subtitle"
 format:
   osc-slides-revealjs: default
   #osc-slides-pptx: default
@@ -22,7 +23,7 @@ author:
     corresponding: true
     email: your_email@domain.com
     degrees:
-      - Your highest degree
+      - PhD
     roles: "Either a CRediT role or free text: https://quarto.org/docs/authoring/front-matter.html#roles"
 date: last-modified
 license: "CC BY-SA" # default license for OSC content
@@ -40,6 +41,14 @@ abstract: |
 
 1+1
 ```
+
+### An Example Slide h3
+
+Here's some content for this slide
+
+---
+
+This slide has no title. The h2 separator below creates the next slide.
 
 ## More Information
 
