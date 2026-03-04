@@ -20,6 +20,23 @@
     - would need to decide which images to include in the background
 
 
+### PowerPoint Notes
+
+* Standard slide size is 16:9 or 13.33:7.5. In any case, the ratio is 1.777
+* In LMU template, measurements:
+    - Top bar
+        - Überschrift box: centered with width of 8.44 and height of 0.88. Vertical position 0.5 from top
+        - Top right image: aligned with Überschrift box horizontally and vertically with matching height of 0.88 and width of about 1.75. There are several options for images that will be included in this section
+        - To the top left corner: space for an image that will be the same height as the Überschrift box and is centered 1.44 from the left of the slide. I have a template image that will be inserted permanently into this section.
+    - Left content section
+        - A large green box that begins in the bottom left corner and is 0.82 wide and is 6.0 tall
+            - Inside of the green box, a text box for the title and a section for the title underneath it
+            - A separate box listing of the authors, their orcid, affiliation, etc.
+            - A final box with dates
+    - Right content section
+        - An area to include a picture up to a height of 6.0 and extending to the bottom and bottom right corner of the slide.
+
+
 ## Table of Contents
 
 * similar to above, can customize the TOC template: 
