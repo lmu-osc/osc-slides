@@ -15,3 +15,37 @@ $popover-bg: #ffffff64;
 
 $font-family-sans-serif: 'Open Sans', sans-serif;
 $font-family-monospace: 'Fira Code', monospace;
+
+
+.title-top-row {
+    height: 15vh;
+    display: flex;
+    align-items: center;      /* vertical centering */
+    justify-content: center;
+}
+
+/* Shared styles */
+.box {
+  height: 60%;              /* optional: controls box height */
+  outline: 2px dashed blue;
+}
+
+/* Center box */
+.center {
+  width: 60%;
+}
+
+/* Side boxes */
+.left,
+.right {
+  width: 19%;
+}
+
+/* Create 2% gaps from center */
+.left {
+  margin-right: 2%;
+}
+
+.right {
+  margin-left: 2%;
+}

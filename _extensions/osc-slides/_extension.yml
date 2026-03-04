@@ -25,6 +25,8 @@ contributes:
       toc: true
       toc-title: "Table of Contents"
       lang: en-US
+      template-partials:
+        - revealjs/title-slide.html
       # title-slide-attributes:
       #   data-background-image: revealjs/lmu_osc_logo.jpg
       #   data-background-size: contain
