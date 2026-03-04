@@ -49,3 +49,18 @@ $font-family-monospace: 'Fira Code', monospace;
 .right {
   margin-left: 2%;
 }
+
+/* Image styling */
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box img {
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+}
